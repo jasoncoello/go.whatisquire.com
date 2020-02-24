@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c8a12"],{5661:function(n,t,c){"use strict";c.d(t,"b",(function(){return u})),c.d(t,"a",(function(){return i}));var u="http://whatisquire.com",i="http://45.58.55.219:80"}}]);
+//# sourceMappingURL=chunk-2d0c8a12.ff783dc3.js.map
